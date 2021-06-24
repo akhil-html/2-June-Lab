@@ -1,0 +1,26 @@
+D:\take away\projects\kiran\dot net project\IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.exe
+D:\take away\projects\kiran\dot net project\IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.deps.json
+D:\take away\projects\kiran\dot net project\IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.runtimeconfig.json
+D:\take away\projects\kiran\dot net project\IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.runtimeconfig.dev.json
+D:\take away\projects\kiran\dot net project\IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.dll
+D:\take away\projects\kiran\dot net project\IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.pdb
+D:\take away\projects\kiran\dot net project\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.csproj.AssemblyReference.cache
+D:\take away\projects\kiran\dot net project\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.AssemblyInfoInputs.cache
+D:\take away\projects\kiran\dot net project\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.AssemblyInfo.cs
+D:\take away\projects\kiran\dot net project\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.csproj.CoreCompileInputs.cache
+D:\take away\projects\kiran\dot net project\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.dll
+D:\take away\projects\kiran\dot net project\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.pdb
+D:\take away\projects\kiran\dot net project\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.genruntimeconfig.cache
+C:\Users\Personal\Desktop\copy2\IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.exe
+C:\Users\Personal\Desktop\copy2\IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.deps.json
+C:\Users\Personal\Desktop\copy2\IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.runtimeconfig.json
+C:\Users\Personal\Desktop\copy2\IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.runtimeconfig.dev.json
+C:\Users\Personal\Desktop\copy2\IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.dll
+C:\Users\Personal\Desktop\copy2\IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.pdb
+C:\Users\Personal\Desktop\copy2\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.csprojAssemblyReference.cache
+C:\Users\Personal\Desktop\copy2\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\copy2\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.AssemblyInfo.cs
+C:\Users\Personal\Desktop\copy2\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\copy2\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.dll
+C:\Users\Personal\Desktop\copy2\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.pdb
+C:\Users\Personal\Desktop\copy2\IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.genruntimeconfig.cache
